@@ -1,7 +1,7 @@
 # subdomain_to_ip
+Kết hợp với sublist để chuyển toàn bộ subdomain thành IP
 
 Command:
-`python sublist_ip.py [list_subdomain]`
-
-Save file:
-`python sublist_ip.py [list_subdomain] | tee [output_file]`
+`python3 sublist_ip.py [list_subdomain] [output_file (option)]`
+Example:
+`python3 sublist_ip.py example.com subdomain.log`
