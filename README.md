@@ -1,4 +1,4 @@
-# subdomain_to_ip
+# Subdomain to IP
 Combine with [sublist](https://github.com/aboul3la/Sublist3r) to scan all subdomains and convert results to IP by using nslookup
 
 Command:
